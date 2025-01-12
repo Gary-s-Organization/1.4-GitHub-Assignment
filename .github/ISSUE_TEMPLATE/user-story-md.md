@@ -1,9 +1,9 @@
 ---
 name: user-story.md
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
+about: These new edits are to be pushed to GitHub for the 1.4 assignment for CS 380
+title: 1.4 GitHub Assignment
+labels: none
+assignees: 'Gary Fernandez'
 
 ---
 
